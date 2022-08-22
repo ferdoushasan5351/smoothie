@@ -250,6 +250,7 @@
         width: 100%;
     }
     .social-media{
+        float: none;
         margin: auto;
         width: 140px;
     }
