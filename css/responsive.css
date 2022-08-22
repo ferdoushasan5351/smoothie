@@ -192,6 +192,9 @@
         width: 100%;
         font-size: 14px;;
     }
+    .copyright p{
+        text-aling:center;
+    }
     .banner-wrap .container{
         padding: 0;
     }
@@ -246,7 +249,12 @@
     .contact-form {
         width: 100%;
     }
-
+    .social-media{
+        margin:auto;
+        width:140px;
+    }
+    
+    
 
 
 
